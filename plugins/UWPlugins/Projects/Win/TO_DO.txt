@@ -1,0 +1,3 @@
+05/03/12: (DONE) Figure out how to parse/split a space or comma deliniated char array so we can turn them into doubles
+05/03/12: (DONE) Finish final UW plugin which will listen over UDP.
+04/25/15: (DONE) Fix release build settings.
